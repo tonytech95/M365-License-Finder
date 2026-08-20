@@ -1,0 +1,559 @@
+
+## Refresh check — 2026-08-18 19:32 UTC
+Changes detected in Microsoft's SKU/service-plan CSV:
+
+- **addon_defender_suite**
+  - + added: Microsoft 365 Defender
+  - + added: Microsoft Defender for Cloud Apps
+  - + added: Microsoft Defender for Endpoint
+  - + added: Microsoft Defender for Identity
+  - + added: Microsoft Defender for Office 365 (Plan 1)
+  - + added: Microsoft Defender for Office 365 (Plan 2)
+  - + added: Microsoft Entra ID P2
+  - + added: Office 365 SafeDocs
+- **addon_purview_suite**
+  - + added: Azure Information Protection Premium P2
+  - + added: Customer Lockbox
+  - + added: Data Classification in Microsoft 365
+  - + added: Information Barriers
+  - + added: Information Protection and Governance Analytics - Premium
+  - + added: Information Protection and Governance Analytics – Standard
+  - + added: Information Protection for Office 365 - Premium
+  - + added: Microsoft 365 Advanced Auditing
+  - + added: Microsoft 365 Communication Compliance
+  - + added: Microsoft Communications DLP
+  - + added: Microsoft Customer Key
+  - + added: Microsoft Data Investigations
+  - + added: Microsoft Defender for Cloud Apps
+  - + added: Microsoft Endpoint DLP
+  - + added: Microsoft Information Governance
+  - + added: Microsoft Insider Risk Management
+  - + added: Microsoft ML-Based Classification
+  - + added: Microsoft Records Management
+  - + added: Office 365 Advanced eDiscovery
+  - + added: Office 365 Privileged Access Management
+  - + added: Premium Encryption in Office 365
+  - + added: RETIRED - Microsoft Communications Compliance
+  - + added: RETIRED - Microsoft Insider Risk Management
+- **entra_p1**
+  - + added: CLOUD APP SECURITY DISCOVERY
+  - + added: EXCHANGE FOUNDATION
+  - + added: MICROSOFT AZURE MULTI-FACTOR AUTHENTICATION
+  - + added: Microsoft Entra ID P1
+- **entra_p2**
+  - + added: CLOUD APP SECURITY DISCOVERY
+  - + added: EXCHANGE FOUNDATION
+  - + added: MICROSOFT AZURE MULTI-FACTOR AUTHENTICATION
+  - + added: Microsoft Entra ID P1
+  - + added: Microsoft Entra ID P2
+- **exch_p1**
+  - + added: Exchange Online (Plan 1)
+  - + added: Mobile Device Management for Office 365
+  - + added: To-Do (Plan 1)
+- **exch_p2**
+  - + added: EXCHANGE ONLINE (PLAN 2)
+- **intune_p1**
+  - + added: MICROSOFT INTUNE
+- **intune_suite**
+  - + added: Intune Advanced endpoint analytics
+  - + added: Intune Endpoint Privilege Management
+  - + added: Intune Plan 2
+  - + added: Microsoft Tunnel for Mobile Application Management
+  - + added: Remote help
+- **m365_apps_business**
+  - + added: MICROSOFT FORMS (PLAN E1)
+  - + added: OFFICE 365 BUSINESS
+  - + added: OFFICE ONLINE
+  - + added: ONEDRIVESTANDARD
+  - + added: SWAY
+- **m365_biz_basic**
+  - + added: EXCHANGE ONLINE (PLAN 1)
+  - + added: FLOW FOR OFFICE 365
+  - + added: MICROSOFT FORMS (PLAN E1)
+  - + added: MICROSOFT PLANNE
+  - + added: OFFICE ONLINE
+  - + added: OFFICEMOBILE_SUBSCRIPTION
+  - + added: POWERAPPS FOR OFFICE 365
+  - + added: SHAREPOINTSTANDARD
+  - + added: SKYPE FOR BUSINESS ONLINE (PLAN 2)
+  - + added: SWAY
+  - + added: TEAMS1
+  - + added: TO-DO (PLAN 1)
+  - + added: Viva Engage Core
+  - + added: YAMMER MIDSIZE
+- **m365_biz_premium**
+  - + added: Avatars for Teams
+  - + added: Avatars for Teams (additional)
+  - + added: Azure Active Directory
+  - + added: Azure Information Protection Premium P1
+  - + added: Azure Rights Management
+  - + added: Commercial data protection for Microsoft Copilot
+  - + added: Common Data Service
+  - + added: Common Data Service for Teams
+  - + added: Data Loss Prevention
+  - + added: Exchange Foundation
+  - + added: Exchange Online (Plan 1)
+  - + added: Exchange Online Archiving
+  - + added: Insights by MyAnalytics
+  - + added: Microsoft 365 Apps for business
+  - + added: Microsoft 365 Lighthouse (Plan 1)
+  - + added: Microsoft 365 Lighthouse (Plan 2)
+  - + added: Microsoft Azure Multi-Factor Authentication
+  - + added: Microsoft Bookings
+  - + added: Microsoft Clipchamp
+  - + added: Microsoft Defender for Business
+  - + added: Microsoft Defender for Cloud Apps Discovery
+  - + added: Microsoft Defender for Office 365 (Plan 1)
+  - + added: Microsoft Entra ID P1
+  - + added: Microsoft Forms (Plan E1)
+  - + added: Microsoft Intune
+  - + added: Microsoft Intune Plan 1
+  - + added: Microsoft Invoicing
+  - + added: Microsoft Kaizala Pro
+  - + added: Microsoft Loop
+  - + added: Microsoft Planner
+  - + added: Microsoft Search
+  - + added: Microsoft StaffHub
+  - + added: Microsoft Stream for Office 365 E1
+  - + added: Microsoft Teams
+  - + added: Mobile Device Management for Office 365
+  - + added: Nucleus
+  - + added: Office Shared Computer Activation
+  - + added: Office for the Web
+  - + added: Power Apps for Office 365
+  - + added: Power Automate for Office 365
+  - + added: Power Virtual Agents for Office 365
+  - + added: Project for Office (Plan E5)
+  - + added: Purview Discovery
+  - + added: RETIRED - Outlook Customer Manager
+  - + added: SharePoint (Plan 1)
+  - + added: Skype for Business Online (Plan 2)
+  - + added: Sway
+  - + added: To-Do (Plan 1)
+  - + added: Universal Print
+  - + added: Viva Engage Core
+  - + added: Viva Learning Seeded
+  - + added: Whiteboard (Plan 1)
+  - + added: Windows 10/11 Business
+  - + added: Windows Update for Business Deployment Service
+  - + added: Yammer Enterprise
+- **m365_biz_standard**
+  - + added: Avatars for Teams
+  - + added: Avatars for Teams (additional)
+  - + added: Commercial data protection for Microsoft Copilot
+  - + added: Common Data Service
+  - + added: Common Data Service for Teams
+  - + added: Exchange Online (Plan 1)
+  - + added: Insights by MyAnalytics
+  - + added: Microsoft 365 Apps for business
+  - + added: Microsoft 365 Lighthouse (Plan 1)
+  - + added: Microsoft Azure Rights Management Service
+  - + added: Microsoft Bookings
+  - + added: Microsoft Clipchamp
+  - + added: Microsoft Forms (Plan E1)
+  - + added: Microsoft Invoicing
+  - + added: Microsoft Kaizala Pro
+  - + added: Microsoft Loop
+  - + added: Microsoft Planner
+  - + added: Microsoft Search
+  - + added: Microsoft StaffHub
+  - + added: Microsoft Teams
+  - + added: Mobile Device Management for Office 365
+  - + added: Nucleus
+  - + added: Office for the Web
+  - + added: Power Apps for Office 365
+  - + added: Power Automate for Office 365
+  - + added: Power Virtual Agents for Office 365
+  - + added: Project for Office (Plan E3)
+  - + added: RETIRED - Outlook Customer Manager
+  - + added: SharePoint (Plan 1)
+  - + added: Skype for Business Online (Plan 2)
+  - + added: Stream for Office 365
+  - + added: Sway
+  - + added: To-Do (Plan 1)
+  - + added: Viva Engage Core
+  - + added: Viva Learning Seeded
+  - + added: Whiteboard (Plan 1)
+  - + added: Yammer Enterprise
+- **m365_e3**
+  - + added: Avatars for Teams
+  - + added: Avatars for Teams (additional)
+  - + added: Azure Information Protection Premium P1
+  - + added: Azure Rights Management
+  - + added: Common Data Service
+  - + added: Common Data Service for Teams
+  - + added: Exchange Online (Plan 2)
+  - + added: Graph Connectors Search with Index
+  - + added: Immersive spaces for Teams
+  - + added: Information Protection and Governance Analytics – Standard
+  - + added: Information Protection for Office 365 - Standard
+  - + added: Insights by MyAnalytics
+  - + added: Microsoft 365 Apps for enterprise
+  - + added: Microsoft 365 Lighthouse (Plan 1)
+  - + added: Microsoft 365 Lighthouse (Plan 2)
+  - + added: Microsoft Azure Multi-Factor Authentication
+  - + added: Microsoft Bookings
+  - + added: Microsoft Clipchamp
+  - + added: Microsoft Defender for Cloud Apps Discovery
+  - + added: Microsoft Defender for Endpoint Plan 1
+  - + added: Microsoft Defender for Office 365 (Plan 1)
+  - + added: Microsoft Entra ID P1
+  - + added: Microsoft Forms (Plan E3)
+  - + added: Microsoft Intune Plan 1
+  - + added: Microsoft Kaizala Pro
+  - + added: Microsoft Loop
+  - + added: Microsoft Planner
+  - + added: Microsoft Search
+  - + added: Microsoft StaffHub
+  - + added: Microsoft Stream for Office 365 E3
+  - + added: Microsoft Teams
+  - + added: Mobile Device Management for Office 365
+  - + added: Nucleus
+  - + added: Office for the Web
+  - + added: Power Apps for Office 365
+  - + added: Power Automate for Office 365
+  - + added: Power Virtual Agents for Office 365
+  - + added: Project for Office (Plan E3)
+  - + added: RETIRED - Commercial data protection for Microsoft Copilot
+  - + added: SharePoint (Plan 2)
+  - + added: Skype for Business Online (Plan 2)
+  - + added: Sway
+  - + added: To-Do (Plan 2)
+  - + added: Universal Print
+  - + added: Viva Engage Core
+  - + added: Viva Learning Seeded
+  - + added: Whiteboard (Plan 2)
+  - + added: Windows 10/11 Enterprise (Original)
+  - + added: Windows Autopatch
+  - + added: Windows Update for Business Deployment Service
+  - + added: Yammer Enterprise
+- **m365_e5**
+  - + added: Avatars for Teams
+  - + added: Avatars for Teams (additional)
+  - + added: Azure Information Protection Premium P1
+  - + added: Azure Information Protection Premium P2
+  - + added: Azure Rights Management
+  - + added: Commercial data protection for Microsoft Copilot
+  - + added: Common Data Service
+  - + added: Common Data Service for Teams
+  - + added: Customer Lockbox
+  - + added: Customer Lockbox (A)
+  - + added: Data Classification in Microsoft 365
+  - + added: Defender for IoT - Enterprise IoT Security
+  - + added: Exchange Online (Plan 2)
+  - + added: Graph Connectors Search with Index
+  - + added: Immersive spaces for Teams
+  - + added: Information Barriers
+  - + added: Information Protection and Governance Analytics - Premium
+  - + added: Information Protection and Governance Analytics – Standard
+  - + added: Information Protection for Office 365 - Premium
+  - + added: Information Protection for Office 365 - Standard
+  - + added: Insights by MyAnalytics
+  - + added: Microsoft 365 Advanced Auditing
+  - + added: Microsoft 365 Apps for enterprise
+  - + added: Microsoft 365 Audio Conferencing
+  - + added: Microsoft 365 Audit Platform
+  - + added: Microsoft 365 Communication Compliance
+  - + added: Microsoft 365 Defender
+  - + added: Microsoft 365 Lighthouse (Plan 1)
+  - + added: Microsoft 365 Phone System
+  - + added: Microsoft Azure Multi-Factor Authentication
+  - + added: Microsoft Bookings
+  - + added: Microsoft Clipchamp
+  - + added: Microsoft Communications DLP
+  - + added: Microsoft Customer Key
+  - + added: Microsoft Data Investigations
+  - + added: Microsoft Defender for Cloud Apps
+  - + added: Microsoft Defender for Endpoint
+  - + added: Microsoft Defender for Identity
+  - + added: Microsoft Defender for Office 365 (Plan 1)
+  - + added: Microsoft Defender for Office 365 (Plan 2)
+  - + added: Microsoft Endpoint DLP
+  - + added: Microsoft Entra ID P1
+  - + added: Microsoft Entra ID P2
+  - + added: Microsoft Excel Advanced Analytics
+  - + added: Microsoft Forms (Plan E5)
+  - + added: Microsoft Information Governance
+  - + added: Microsoft Insider Risk Management
+  - + added: Microsoft Intune Plan 1
+  - + added: Microsoft Kaizala Pro
+  - + added: Microsoft Loop
+  - + added: Microsoft ML-Based Classification
+  - + added: Microsoft MyAnalytics (Full)
+  - + added: Microsoft Planner
+  - + added: Microsoft Records Management
+  - + added: Microsoft Search
+  - + added: Microsoft StaffHub
+  - + added: Microsoft Stream for Office 365 E5
+  - + added: Microsoft Teams
+  - + added: Mobile Device Management for Office 365
+  - + added: Nucleus
+  - + added: Office 365 Advanced eDiscovery
+  - + added: Office 365 Cloud App Security
+  - + added: Office 365 Privileged Access Management
+  - + added: Office 365 SafeDocs
+  - + added: Office for the Web
+  - + added: Power Apps for Office 365 (Plan 3)
+  - + added: Power Automate for Office 365
+  - + added: Power BI Pro
+  - + added: Power Virtual Agents for Office 365
+  - + added: Premium Encryption in Office 365
+  - + added: Project for Office (Plan E5)
+  - + added: Purview Discovery
+  - + added: RETIRED - Microsoft Communications Compliance
+  - + added: RETIRED - Microsoft Insider Risk Management
+  - + added: SharePoint (Plan 2)
+  - + added: Skype for Business Online (Plan 2)
+  - + added: Sway
+  - + added: To-Do (Plan 3)
+  - + added: Universal Print
+  - + added: Viva Engage Core
+  - + added: Viva Learning Seeded
+  - + added: Whiteboard (Plan 3)
+  - + added: Windows 10/11 Enterprise (Original)
+  - + added: Windows Autopatch
+  - + added: Windows Update for Business Deployment Service
+  - + added: Yammer Enterprise
+- **m365_e7**
+  - + added: AZURE INFORMATION PROTECTION PREMIUM P2
+  - + added: Agent 365
+  - + added: Avatars for Teams
+  - + added: Avatars for Teams (additional)
+  - + added: Azure Rights Management
+  - + added: Common Data Service
+  - + added: Common Data Service for Teams
+  - + added: Copilot Studio in Copilot for M365
+  - + added: Customer Lockbox
+  - + added: Customer Lockbox (A)
+  - + added: Data Classification in Microsoft 365
+  - + added: Defender Platform for Office 365
+  - + added: Defender for IoT - Enterprise IoT Security
+  - + added: EXCHANGE ONLINE (PLAN 2)
+  - + added: Entra Identity Governance
+  - + added: Graph Connectors Search with Index
+  - + added: Graph Connectors in Microsoft 365 Copilot
+  - + added: Immersive spaces for Teams
+  - + added: Information Barriers
+  - + added: Information Protection and Governance Analytics - Premium
+  - + added: Information Protection and Governance Analytics – Standard
+  - + added: Information Protection for Office 365 - Premium
+  - + added: Information Protection for Office 365 - Standard
+  - + added: Insights by MyAnalytics
+  - + added: Insights by MyAnalytics Backend
+  - + added: Intelligent Search
+  - + added: MICROSOFT CLOUD APP SECURITY
+  - + added: MICROSOFT DEFENDER FOR IDENTITY
+  - + added: Microsoft 365 Advanced Auditing
+  - + added: Microsoft 365 Apps for enterprise
+  - + added: Microsoft 365 Audio Conferencing
+  - + added: Microsoft 365 Audit Platform
+  - + added: Microsoft 365 Communication Compliance
+  - + added: Microsoft 365 Copilot for SharePoint
+  - + added: Microsoft 365 Copilot in Microsoft Teams
+  - + added: Microsoft 365 Copilot in Productivity Apps
+  - + added: Microsoft 365 Defender
+  - + added: Microsoft 365 Lighthouse (Plan 1)
+  - + added: Microsoft 365 Phone System
+  - + added: Microsoft Azure Multi-Factor Authentication
+  - + added: Microsoft Bookings
+  - + added: Microsoft Clipchamp
+  - + added: Microsoft Communications DLP
+  - + added: Microsoft Copilot with Graph-grounded chat
+  - + added: Microsoft Customer Key
+  - + added: Microsoft Defender for AI
+  - + added: Microsoft Defender for Endpoint
+  - + added: Microsoft Defender for Office 365 (Plan 1)
+  - + added: Microsoft Defender for Office 365 (Plan 2)
+  - + added: Microsoft Endpoint DLP
+  - + added: Microsoft Entra ID Governance for Assistive Agents
+  - + added: Microsoft Entra ID P1
+  - + added: Microsoft Entra ID P2
+  - + added: Microsoft Entra Internet Access
+  - + added: Microsoft Entra Network Controls for Assistive Agents
+  - + added: Microsoft Entra Private Access
+  - + added: Microsoft Entra RIGHTS
+  - + added: Microsoft Excel Advanced Analytics
+  - + added: Microsoft Forms (Plan E5)
+  - + added: Microsoft Information Governance
+  - + added: Microsoft Insider Risk Management
+  - + added: Microsoft Insider Risk Management - Exchange
+  - + added: Microsoft Intune
+  - + added: Microsoft Loop
+  - + added: Microsoft ML-Based Classification
+  - + added: Microsoft MyAnalytics (Full)
+  - + added: Microsoft Planner
+  - + added: Microsoft Purview Audit for Agents
+  - + added: Microsoft Purview Communication Compliance for Agents
+  - + added: Microsoft Purview Compliance Manager for Agents
+  - + added: Microsoft Purview Data Lifecycle Management for Agents
+  - + added: Microsoft Purview Data Loss Prevention for Agents
+  - + added: Microsoft Purview Information Protection for Agents
+  - + added: Microsoft Purview Insider Risk Management for Agents
+  - + added: Microsoft Purview eDiscovery for Agents
+  - + added: Microsoft Records Management
+  - + added: Microsoft Search
+  - + added: Microsoft StaffHub
+  - + added: Microsoft Stream for Office 365 E5
+  - + added: Microsoft Teams
+  - + added: Microsoft Viva Insights
+  - + added: Microsoft Viva Insights Backend
+  - + added: Mobile Device Management for Office 365
+  - + added: Nucleus
+  - + added: Office 365 Advanced eDiscovery
+  - + added: Office 365 Cloud App Security
+  - + added: Office 365 Privileged Access Management
+  - + added: Office 365 SafeDocs
+  - + added: Office for the Web
+  - + added: People Skills - Foundation
+  - + added: Power Apps for Office 365 (Plan 3)
+  - + added: Power Automate for Office 365
+  - + added: Power BI Pro
+  - + added: Power Platform Connectors in Microsoft 365 Copilot
+  - + added: Power Virtual Agents for Office 365
+  - + added: Premium Encryption in Office 365
+  - + added: Project for Office (Plan E5)
+  - + added: Purview Discovery
+  - + added: SharePoint (Plan 2)
+  - + added: Skype for Business Online (Plan 2)
+  - + added: Sway
+  - + added: To-Do (Plan 3)
+  - + added: Universal Print
+  - + added: Verifiable Credentials Service Request
+  - + added: Viva Engage Core
+  - + added: Viva Learning Seeded
+  - + added: Whiteboard (Plan 3)
+  - + added: Windows 10/11 Enterprise (Original)
+  - + added: Windows Autopatch
+  - + added: Windows Update for Business Deployment Service
+  - + added: YAMMER_ENTERPRISE
+- **o365_e1**
+  - + added: Avatars for Teams
+  - + added: Avatars for Teams (additional)
+  - + added: Commercial data protection for Microsoft Copilot
+  - + added: Common Data Service
+  - + added: Common Data Service for Teams
+  - + added: Exchange Online (Plan 1)
+  - + added: Immersive spaces for Teams
+  - + added: Insights by MyAnalytics
+  - + added: Microsoft 365 Lighthouse (Plan 1)
+  - + added: Microsoft Azure Rights Management Service
+  - + added: Microsoft Bookings
+  - + added: Microsoft Forms (Plan E1)
+  - + added: Microsoft Kaizala Pro
+  - + added: Microsoft Planner
+  - + added: Microsoft Search
+  - + added: Microsoft StaffHub
+  - + added: Microsoft Stream for Office 365 E1
+  - + added: Microsoft Teams
+  - + added: Mobile Device Management for Office 365
+  - + added: Nucleus
+  - + added: Office Mobile Apps for Office 365
+  - + added: Office for the Web
+  - + added: Power Apps for Office 365
+  - + added: Power Automate for Office 365
+  - + added: Power Virtual Agents for Office 365
+  - + added: Project for Office (Plan E1)
+  - + added: SharePoint (Plan 1)
+  - + added: Skype for Business Online (Plan 2)
+  - + added: Sway
+  - + added: To-Do (Plan 1)
+  - + added: Viva Engage Core
+  - + added: Viva Learning Seeded
+  - + added: Whiteboard (Plan 1)
+  - + added: Yammer Enterprise
+- **o365_e3**
+  - + added: Avatars for Teams
+  - + added: Avatars for Teams (additional)
+  - + added: Azure Rights Management
+  - + added: Commercial data protection for Microsoft Copilot
+  - + added: Common Data Service
+  - + added: Common Data Service for Teams
+  - + added: Exchange Online (Plan 2)
+  - + added: Immersive spaces for Teams
+  - + added: Information Protection and Governance Analytics – Standard
+  - + added: Information Protection for Office 365 - Standard
+  - + added: Insights by MyAnalytics
+  - + added: Microsoft 365 Apps for Enterprise
+  - + added: Microsoft 365 Lighthouse (Plan 1)
+  - + added: Microsoft Bookings
+  - + added: Microsoft Defender for Office 365 (Plan 1)
+  - + added: Microsoft Forms (Plan E3)
+  - + added: Microsoft Kaizala Pro
+  - + added: Microsoft Planner
+  - + added: Microsoft Search
+  - + added: Microsoft StaffHub
+  - + added: Microsoft Stream for Office 365 E3
+  - + added: Microsoft Teams
+  - + added: Mobile Device Management for Office 365
+  - + added: Nucleus
+  - + added: Office for the Web
+  - + added: Power Apps for Office 365
+  - + added: Power Automate for Office 365
+  - + added: Power Virtual Agents for Office 365
+  - + added: Project for Office (Plan E3)
+  - + added: SharePoint (Plan 2)
+  - + added: Skype for Business Online (Plan 2)
+  - + added: Sway
+  - + added: To-Do (Plan 2)
+  - + added: Viva Engage Core
+  - + added: Viva Learning Seeded
+  - + added: Whiteboard (Plan 2)
+  - + added: Yammer Enterprise
+- **o365_e5**
+  - + added: Common Data Service - O365 P3
+  - + added: Common Data Service for Teams_P3
+  - + added: Customer Lockbox
+  - + added: Data Classification in Microsoft 365
+  - + added: Exchange Online (Plan 2)
+  - + added: Graph Connectors Search with Index
+  - + added: Information Barriers
+  - + added: Information Protection and Governance Analytics - Premium
+  - + added: Information Protection and Governance Analytics - Standard
+  - + added: Information Protection for Office 365 - Premium
+  - + added: Information Protection for Office 365 - Standard
+  - + added: Insights by MyAnalytics
+  - + added: M365 Communication Compliance
+  - + added: Microsoft 365 Advanced Auditing
+  - + added: Microsoft 365 Apps for enterprise
+  - + added: Microsoft 365 Audio Conferencing
+  - + added: Microsoft 365 Defender
+  - + added: Microsoft 365 Phone System
+  - + added: Microsoft Bookings
+  - + added: Microsoft Communications Compliance
+  - + added: Microsoft Communications DLP
+  - + added: Microsoft Customer Key
+  - + added: Microsoft Data Investigations
+  - + added: Microsoft Defender for Office 365 (Plan 1)
+  - + added: Microsoft Defender for Office 365 (Plan 2)
+  - + added: Microsoft Excel Advanced Analytics
+  - + added: Microsoft Forms (Plan E5)
+  - + added: Microsoft Information Governance
+  - + added: Microsoft Kaizala
+  - + added: Microsoft Microsoft Entra Rights
+  - + added: Microsoft MyAnalytics (Full)
+  - + added: Microsoft Planner
+  - + added: Microsoft Records Management
+  - + added: Microsoft Search
+  - + added: Microsoft StaffHub
+  - + added: Microsoft Stream for O365 E5 SKU
+  - + added: Microsoft Teams
+  - + added: Microsoft Teams Events
+  - + added: Mobile Device Management for Office 365
+  - + added: Office 365 Advanced Security Management
+  - + added: Office 365 Advanced eDiscovery
+  - + added: Office 365 Privileged Access Management
+  - + added: Office for the web
+  - + added: Power Automate for Office 365
+  - + added: Power BI Pro
+  - + added: Power Virtual Agents for Office 365 P3
+  - + added: PowerApps for Office 365 Plan 3
+  - + added: Premium Encryption in Office 365
+  - + added: Project for Office (Plan E5)
+  - + added: SharePoint (Plan 2)
+  - + added: Skype for Business Online (Plan 2)
+  - + added: Sway
+  - + added: To-Do (Plan 3)
+  - + added: Viva Engage Core
+  - + added: Viva Learning Seeded
+  - + added: Whiteboard (Plan 3)
+  - + added: Yammer Enterprise

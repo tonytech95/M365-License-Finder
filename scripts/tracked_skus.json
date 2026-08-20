@@ -1,0 +1,20 @@
+{
+  "m365_biz_basic": {"display_name": "Microsoft 365 Business Basic", "string_id": "SMB_BUSINESS_ESSENTIALS", "guid": "dab7782a-93b1-4074-8bb1-0e61318bea0b"},
+  "m365_biz_standard": {"display_name": "Microsoft 365 Business Standard", "string_id": "O365_BUSINESS_PREMIUM", "guid": "f245ecc8-75af-4f8e-b61f-27d8114de5f3"},
+  "m365_biz_premium": {"display_name": "Microsoft 365 Business Premium", "string_id": "SPB", "guid": "cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46"},
+  "m365_apps_business": {"display_name": "Microsoft 365 Apps for Business", "string_id": "O365_BUSINESS", "guid": "cdd28e44-67e3-425e-be4c-737fab2899d3"},
+  "o365_e1": {"display_name": "Office 365 E1", "string_id": "STANDARDPACK", "guid": "18181a46-0d4e-45cd-891e-60aabd171b4e"},
+  "o365_e3": {"display_name": "Office 365 E3", "string_id": "ENTERPRISEPACK", "guid": "6fd2c87f-b296-42f0-b197-1e91e994b900"},
+  "o365_e5": {"display_name": "Office 365 E5", "string_id": "ENTERPRISEPREMIUM", "guid": "c7df2760-2c81-4ef7-b578-5b5392b571df"},
+  "m365_e3": {"display_name": "Microsoft 365 E3", "string_id": "SPE_E3", "guid": "05e9a617-0261-4cee-bb44-138d3ef5d965"},
+  "m365_e5": {"display_name": "Microsoft 365 E5", "string_id": "SPE_E5", "guid": "06ebc4ee-1bb5-47dd-8120-11324bc54e06"},
+  "m365_e7": {"display_name": "Microsoft 365 E7", "string_id": "MICROSOFT_365_E7", "guid": "9a18296a-025f-4e37-9ffa-30bf8d1ce775"},
+  "exch_p1": {"display_name": "Exchange Online (Plan 1)", "string_id": "EXCHANGESTANDARD", "guid": "4b9405b0-7788-4568-add1-99614e613b69"},
+  "exch_p2": {"display_name": "Exchange Online (Plan 2)", "string_id": "EXCHANGEENTERPRISE", "guid": "19ec0d23-8335-4cbd-94ac-6050e30712fa"},
+  "entra_p1": {"display_name": "Microsoft Entra ID P1", "string_id": "AAD_PREMIUM", "guid": "078d2b04-f1bd-4111-bbd4-b4b1b354cef4"},
+  "entra_p2": {"display_name": "Microsoft Entra ID P2", "string_id": "AAD_PREMIUM_P2", "guid": "84a661c4-e949-4bd2-a560-ed7766fcaf2b"},
+  "intune_p1": {"display_name": "Intune", "string_id": "INTUNE_A", "guid": "061f9ace-7d42-4136-88ac-31dc755f143f"},
+  "intune_suite": {"display_name": "Microsoft Intune Suite", "string_id": "Microsoft_Intune_Suite", "guid": "a929cd4d-8672-47c9-8664-159c1f322ba8"},
+  "addon_purview_suite": {"display_name": "Microsoft 365 E5 Compliance", "string_id": "INFORMATION_PROTECTION_COMPLIANCE", "guid": "184efa21-98c3-4e5d-95ab-d07053a96e67"},
+  "addon_defender_suite": {"display_name": "Microsoft 365 E5 Security", "string_id": "IDENTITY_THREAT_PROTECTION", "guid": "26124093-3d78-432b-b5dc-48bf992543d5"}
+}

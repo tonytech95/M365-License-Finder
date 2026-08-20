@@ -414,6 +414,7 @@
     row.innerHTML = [
       chip(`Pricing verified ${PRODUCTS.meta.pricing_verified}`),
       chip(`Feature matrix dated ${PRODUCTS.meta.feature_matrix_dated}`),
+      chip(`SKU reference checked ${PRODUCTS.meta.sku_identifier_checked}`),
       chip("Static snapshot — not a live Microsoft feed"),
     ].join("");
     document.getElementById("matrixDate").textContent = MATRIX.lastUpdated;
@@ -423,11 +424,12 @@
       ["Business plans & pricing", "https://www.microsoft.com/en-us/microsoft-365/business/with-teams-plans-and-pricing"],
       ["Enterprise (Office 365) pricing", "https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-plans-and-pricing"],
       ["Enterprise (Microsoft 365) pricing", "https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-plans-and-pricing"],
-      ["Frontline pricing", "https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline-plans-and-pricing"],
       ["Entra ID pricing", "https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing"],
       ["Intune pricing", "https://www.microsoft.com/en-us/security/microsoft-intune-pricing"],
       ["OME FAQ", "https://learn.microsoft.com/en-us/purview/ome-faq"],
       ["M365 Maps (feature matrix source)", "https://m365maps.com/"],
+      ["Microsoft licensing reference CSV (SKU \u2192 service plans)", "https://learn.microsoft.com/en-us/entra/identity/users/licensing-service-plan-reference"],
+      ["Microsoft 365 pricing & packaging updates (official summary)", "https://www.microsoft.com/en-us/licensing/news/2026-m365-packaging-pricing-updates"],
     ];
     document.getElementById("footerLinks").innerHTML = links.map(([t, u]) => `<a href="${u}" target="_blank" rel="noopener">${t}</a>`).join("");
   }
